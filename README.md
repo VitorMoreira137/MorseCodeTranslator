@@ -28,7 +28,7 @@ This is a graphical Morse Code Translator built with **Python** and **CustomTkin
 1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/your-username/morse-code-translator.git
-   cd morse-code-translator
+   git clone https://github.com/your-username/MorseCodeTranslator.git
+   cd MorseCodeTranslator
 
-In the "dist" folde, there is a .exe built using pyinstaller
+In the "dist" folder, there is a .exe file built using pyinstaller
