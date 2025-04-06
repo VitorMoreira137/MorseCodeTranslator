@@ -20,4 +20,20 @@ Morse Code consists of five elements:
 - A short pause between characters, which lasts as long as a dot;
 - A medium pause between words, which lasts as long as three dots;
 - A long pause between sentences, which lasts as long as seven dots.
+
+- White spaces are represented as "/".
+
+
+
+>> INSTRUCTIONS <<<
+
+➔ The white text box is where you will type your text.
+➔ Click the "Translate" Button to translate to morse code.
+➔ The morse code will apeear in the grey box.
+➔ Use "Play Sound" Button to play the morse code and see the LED blinks in sync with the sound.
+➔ The "Play Sound" Button will be clickable, only when there is a morse code in the grey box.
+➔ If you want to translate morse code to plain text, click in the "Toggle Translation" switch.
+
+REMEMBER: When using the translator as Morse Code to plan text, 
+put spaces between morse elements, otherwise teh output will be incorrect.
 """
